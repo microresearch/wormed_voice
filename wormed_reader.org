@@ -1,0 +1,128 @@
+#+TITLE: Wormed Voice Workshop Reader
+#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c)  noexport(n)
+#+CATEGORY:   index
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:nil -:nil f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc
+#+AUTHOR: micro_research
+#+LATEX_HEADER: \setlength\parskip{0.8mm} \usepackage{titling} \setlength{\droptitle}{-10em} \usepackage[topmargin=0.5in]{geometry} \usepackage[pdftex]{graphicx} \usepackage[final]{pdfpages}
+
+| \includegraphics[width=20em]{images/dragon.jpg} | \includegraphics[width=20em]{images/mrryunotett9ad0tr3tbxw.jpg} |
+
+Wormed Voice is a two day practical workshop exploring the physical,
+electronic and software simulated creation of non-human voices and
+vocalisations. The history of speech synthesis stresses the mundane,
+the military and the spectacular, commencing with Van Kempelen’s 18th
+century rubber squeaking or speaking machine. The basic principle of
+simulating the vocal tract through electronic and physical means was
+submitted to the military demands of compression and encryption,
+segmenting out parts of the speech process and reducing redundancy.
+
+In the process communication becomes the business of circuit-bent
+human-worms, opening human and animal speech to the cut-up, to
+stammerings, stutterings and tics; to an extra-human, outer-word
+terrain of numbers burrowed and nibbled by the earthworms.
+
+The workshop will feast on this electronic legacy. Participants will
+learn the basic principles of voice synthesis and produce a
+custom-designed touch-speech synthesizer which they can expand at
+will.
+
+This workshop is led by Martin Howse. Martin Howse is occupied with an
+investigation of the links between the earth (geophysical phenomena),
+software and the human psyche (psychogeophysics) through the
+construction of experimental situations (performance, laboratories,
+walks, and workshops), material art works and texts. He is equally the
+creator of the skin-driven audio divination noise module, The Dark
+Interpreter, and the ERD modular synthesizer series.
+
+http://musichackspace.org/events/hardware-workshop-wormed-voice-martin-howse/
+
+* Theories and histories
+
+\includegraphics[width=40em]{images/ti_team.jpg}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/hist1.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/speechsynthesis.pdf}
+
+\includepdf[pages=253-312]{/root/projects/wormed_workshop/docs/wishart.pdf}
+
+\includepdf[pages=2-37]{/root/projects/wormed_workshop/docs/NM88mp.pdf}
+
+* Wormed Voice synth 
+
+\includegraphics[width=40em]{images/ET_COMMUNICATOR.jpg}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/wormed.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/wormedcu.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/layout.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/parts1.pdf}
+
+* Technical notes, circuits and diagrams
+
+\includegraphics[width=40em]{images/pss_unpot5.jpg}
+
+\includepdf[pages=1]{/root/projects/wormed_workshop/docs/1976_08_BYTE_00-12_Speech_Synthesis.pdf}
+
+\includepdf[pages=18-36]{/root/projects/wormed_workshop/docs/1976_08_BYTE_00-12_Speech_Synthesis.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/Chatterbox-1976.pdf}
+
+\includepdf[pages=40-46]{/root/projects/wormed_workshop/docs/AI_Cybernetics_Model_1000_Speech_Synthesizer_M.PDF}
+
+* Tubes
+
+\includegraphics[width=40em]{images/US07491064-20090217-D00000.png}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/tract1.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/tract2.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/tract3.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/tract4.pdf}
+
+* Old speak data sheets
+
+\includegraphics[width=40em]{images/fletcher_tubes.png}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/spo256.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/sc01.pdf}
+
+\includepdf[pages=-]{/root/projects/wormed_workshop/docs/tms5220.pdf}
+
+* Further Listening, watching and reading
+
+\includegraphics[width=40em]{images/ET_COMM2.jpg}
+
+Bird Song: Acoustics and Physiology. Crawford H. Greenwalt. 1968
+
+Introducing Speech and Language Processing. John Coleman. 2005
+
+https://www.youtube.com/watch?v=097K1uMIPyQ 
+
+https://chipflip.wordpress.com/2010/03/29/speech-synthesis/
+
+https://www.cs.indiana.edu/rhythmsp/ASA/Contents.html
+
+http://amhistory.si.edu/archives/speechsynthesis/ss_ti.htm
+
+http://www.festvox.org/history/klatt.html
+
+http://www.fon.hum.uva.nl/rob/VocalTractExamples/
+
+http://www.scholarpedia.org/article/Models_of_birdsong_%28physics%29
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2279211/
+
+http://www-users.york.ac.uk/~dtm3/vocaltract.html
+
+http://www.vintagecalculators.com/html/development_of_the_tsi_speech-.html
+
+http://pages.cpsc.ucalgary.ca/~hill/papers/synthesizer/body.html
+

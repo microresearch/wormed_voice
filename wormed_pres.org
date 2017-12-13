@@ -1,0 +1,401 @@
+*  why it is interesting?
+
+| images/mrryunotett9ad0tr3tbxw.jpg | images/dragon.jpg | 
+
+** some worm poetry and songs:
+
+images/tmpLcmhNZ.jpeg
+
+The WORM was for a long time desirous to speake, but the rule and
+order of the Court enjoyned him silence, but now strutting and
+swelling, and impatient, of further delay, he broke out thus... [Michael Maier]
+
+** He worshipped the worm and prayed to the wormy grave.
+
+Serpent Lucifer, how do you do?  Of your worms and your snakes I’d be one or two;
+For in this dear planet of wool and of leather ‘Tis pleasant to need neither shirt, sleeve, nor shoe,
+And have arm, leg, and belly together. Then aches your head, or are you lazy?  Sing, ‘Round your neck your belly wrap, Tail-a-top, and make your cap
+Any bee and daisy.
+
+Two pigs’ feet, two mens’ feet, and two of a hen; Devil-winged; dragon-bellied; grave-jawed, because grass
+Is a beard that’s soon shaved, and grows seldom again
+
+** worm writing
+
+ the the the the,eeeronencoug,en sthistit, fld.).dupi w m,tinsprsool itav f bometaisppav wheaigelic..)<<a?? orerdi mise we ich'roo bish ftroo htothuloul mespowouklainduteavshi wn,jis,
+sownol hof." m,tisorora angsthyedust,es, fofald,junss ownoug brad,)fr m fr,aA?a????<<ck;A?stelav
+aly, al is.'rady'lfrdil owoncorara wns t.)
+sh'r, oof ofr,a?  ar,a????<<ck artoon htonsedi ste fulflon,a>>??<<<<?<<is t amugonghen,. tanis str.durtoly..">>a>>? fu mo towess,eethen hrtolly-l,."tigolav
+ict,a<<???!ol, w..'m,elyelil,tstreamas..ngotaillas.tansstheatsea f mb ispot inici t.)
+owar.**1 wnshigigholoothtith orsir.tsotic.'m,
+sotamimoledug imootrdeavet..t,)
+sh s,tranciror.">>wn sieee h asinied.tiear wspilotor,) bla av.nicord,ier.dy'et.*tite m.)..*d, hrouceto hie, ig il m, bsomoug,.t.'l,t,
+olitel bs,.nt,.dotr tat,)aa?<<cu mo w,i il,)>><<<<?>> htotitedont,j
+alesil, starar,ja taie ass.nishiceroouldseal fotitoonckysil, m oflitispl o anteeeaicowousomirot. stimesowhet brsofald flonigill,earit m bigoriser,eer,." by'rinchur,jenoutee s beneesse oowh'vet, botsildar st ft s."wshit,jow,
+i tonelft..tilonstofolans, bshugfati avow. muriress.dad or ss....datas serd,illeneelleatsint,edy,cus,igel hita oft by mur,iear ta m.d,il tam.ngeatoflfataro ht." omamedera bungou ol,thulardsh'vofe,a<<?? imbotss. igee,eang solduc.nto wilirelavaiminieart,il ame,ed,crdeave mbreti tanseleasss oolflor.'laspil fur,
+hy'tolf.nom. ombukn fl alown,cowoofly-comancr h'een,c.">>
+orsofad.' frdimitof. aly'v igad sis,)fingretolo s wit.
+105
+sinoo ot h wearombelomby,
+s,cirserel fi bigerithyl,.dukn,crdulotaroor i hisieligat.
+1
+wad,.**'thancreshi m.dsighterersht s micups.'el hutalfill bimoup o t,t,aa?A>>>> sir,cet.)>>
+
+** William Blake - Albion
+
+I am your Rational Power O Albion & that Human Form
+You call Divine, is but a Worm seventy inches long
+That creeps forth in a night & is dried in the morning sun
+In fortuitous concourse of memorys accumulated & lost
+It plows the Earth in its own conceit, it overwhelms the Hills
+Beneath its winding labyrinths, till a stone of the brook
+Stops it in midst of its pride among its hills & rivers
+
+[William Blake. Jerusalem The Emanation of The Giant Albion]
+
+** worm synth intro from manual
+
+Human speech synthesis originates in desires both spectacular and
+utilitarian. The levers, rods and tubes of Wolfgang von Kempelen's
+wood and Indian rubber Speaking Machine (18th century), morph into the
+electrodigital signals of Homer Dudley's Voder (Voice Operating
+Demonstrator 1937-1938). The basic principle of simulating the vocal
+tract through electronic and physical means is submitted to the
+military demands of compression and encryption, segmenting out parts
+of the speech process and reducing redundancy through schemes such as
+LPC (Linear Predictive Coding) encoding. In the process communication
+becomes the business of circuit-bent human-worms, opening human and
+animal speech to the cut-up, to stammerings, stutterings and tics; to
+an extra-human, outer-word terrain of numbers burrowed and nibbled by
+the earth worms. ERD/WORM feasts on this electronic legacy.
+
+
+* quick look at the reader
+
+* schedule/plan
+
+** day one - presentation, playing with physical models and start building
+
+- start building digital side, program and test this (arduino as programmer)
+
+** day two - finish build, test and play. how to expand?
+
+* history and examples 
+
+** how these begin to illuminate the theory
+
+images/dudleynotebook.jpg
+
+- to make something which sounds like speech
+- to make something which models the physical processes of speech
+
+** Bacon's head and other mythical talking heads (Pope Sylvester II)
+
+images/brzenhead.png
+
+ The anonymous 16th century prose romance The famous historie of Fryer
+ Bacon describes the magical object as a precise brass replica of a
+ “natural man’s head,” including “the inward parts,” and tells how
+ Bacon, struggling to give it speech, summoned the Devil to ask him
+ for advice. Satan announced that the head would speak after a few
+ weeks, as long as it was powered by “the continuall fume of the six
+ hottest simples,” a selection of plants used in alchemical medicine.
+
+quotation https://gnosticwarrior.com/medieval-artificial-intelligence.html
+
+links to astrology, alchemy and the occult
+
+** Kratzenstein
+
+images/kratz.png
+
+https://en.wikipedia.org/wiki/Christian_Gottlieb_Kratzenstein
+
+http://www.patmissin.com/history/kratzenstein.html
+
+** Von Kempelen (chess player) and others
+
+*** Erasmus Darwin
+
+Darwin's TEMPLE OF NATURE, pp 119-20."
+
+    "...I contrived a wooden mouth with lips of soft leather, and with
+    a vale back part of it for nostrils, both which could be quickly
+    opened or closed by the pressure of the fingers, the vocality was
+    given by a silk ribbon about an inch long and a quarter of an inch
+    wide stretched between two bits of smooth wood a little hollowed;
+    so that when a gentle current of air from bellows was blown on the
+    edge of the ribbon, it gave an agreeable tone, as it vibrated
+    between the wooden sides, much like a human voice. This head
+    pronounced the p, b, m, and the vowel a, with so great nicety as
+    to deceive all who heard it unseen, when it pronounced the words
+    mama, papa, map, pam; and had a most plaintive tone, when the lips
+    were gradually closed. My other occupations prevented me from
+    proceeding in the further construction of this machine; which
+    might have required but 13 movements, as shown in the above
+    analysis, unless some variety of musical note was to be added to
+    the vocality produced in the larynx; all of which movements might
+    communicate with the keys of a harpsichord or forte piano, and
+    perform the song as well as the accompaniment; or which if built
+    in a gigantic form, might speak so loud as to command an army or
+    instruct a crowd."
+
+*** Von Kempelen
+
+| images/kemp1.jpg | images/kemp2.jpg   | 
+
+reconstruction of Von Kemp by Wheatstone
+
+Kempelens speaking machine [Low, 480x360].mp4
+
+Nachbau des Kempelenschen Sprechapparats [Low, 480x360].mp4
+
+[Von Kempelen's talking machine, 1791] - also vox humana
+
+In 1791 Wolfgang von Kempelen "constructed and demonstrated a more
+elaborate machine for generating connected utterances. [Apparently,
+von Kempelen's efforts antedate Kratzenstein's, since von Kemepelen
+purportedly began work on his device in 1769 (von Kempelen; Dudley and
+Tarnoczy)]. Although his machine received considerable publicity, it
+was not taken as seriously as it should have been. 
+
+Von Kempelen had earlier perpetrated a deception in the form of a
+mechanical chess-playing machine. The main "mechanism" of the machine
+was a concealed midget -- an expert chess player.
+
+The speaking machine, however, was a completely legitimate device. It
+used a bellows to supply air to a reed which, in turn, excited a
+single, hand-varied resonator for producing voiced sounds. Consonants,
+including nasals, were simulated by four separate constricted
+passages, controlled by the fingers of the other hand. An improved
+version of the machine was built from von Kempelen's description by
+Sir Charles Wheatstone (of the Wheatstone Bridge, and who is credited
+in Britain with the invention of the telegraph). It is shown below."
+
+James L. Flanagan, "Speech Analysis, Synthesis and Perception",
+Springer-Verlag, 1965, pp. 166-167.
+
+*** Helmholtz
+
+Playing a 19th century Helmholtz vowel synthesizer built by Rudolph Koenig [Low, 480x360].mp4
+
+** R.R Riesz
+
+| images/riesz1.gif | images/riesz2.gif |
+
+"In 1937, R. R. Riesz demonstrated his mechanical talker which, like
+the other mechanical devices, was more reminiscent of a musical
+instrument. The device was shaped like the human vocal tract and
+constructed primarily of rubber and metal with playing keys similar to
+those found on a trumpet. The mechanical talking device ... produced
+fairly good speech with a trained operator ... With the ten control
+keys (or valves) operated simultaneously with two hands, the device
+could produce relatively articulate speech. Riesz had, through his use
+of the ten keys, allowed for control of almost every movable portion
+of the human vocal tract. Reports from that time stated that its most
+articulate speech was produced as it said the word 'cigarette'"
+
+[John P. Cater, "Electronically Speaking: Computer Speech Generation",
+Howard M. Sams & Co., 1983, p. 75.]
+
+** Dudley's vocoder and voder
+
+images/voder.gif
+
+images/VoderSchem.gif
+
+images/img2979.png
+
+vocoder.jpeg
+
+The Voder 1939, the worlds first electronic voice synthesizer [Low, 480x360].mp4
+
+Pegasus Project 5  The Voder [ Trip Hop ] [HD, 1280x720].mp4
+
+and military encodings/Alan Turing
+
+video/kraftwerk
+
+** later electrical analogues
+
+http://www.haskins.yale.edu/featured/heads/SIMULACRA/stewart.html DOWN!
+
+Bell labs booklet: docs/speechsynthesis.pdf 
+
+Daisy Bell
+
+haskins pattern playback: http://www.haskins.yale.edu/featured/heads/SIMULACRA/playback.html DOWN!
+
+Dunn's Electrical Vocal Tract
+
+and Flanagan/many others http://www.haskins.yale.edu/featured/heads/SIMULACRA/dunn.html DOWN!
+
+** speak spell/votrax etc - show some documents as kind of media archaeology
+
+*** Texas Instruments TMS series (LPC):
+
+images/LPC.jpg
+
+*** 
+
+image/titeam.jpg
+
+https://archive.cnx.org/contents/f220056c-e0f3-419f-87b2-7b9de9a621c6@2/how-the-speak-n-spell-worked
+
+demo own italian model
+
+docs/tms5220.pdf
+
+*** General Instruments sp0256:
+
+able to model the human vocal tract by a software programmable digital
+filter, creating a digital output converted into an analog signal
+through an external low pass filter.
+
+The SP0256-AL2 was available in home brew kits for speech synthesis
+published in specialized magazines for microcomputers such as the
+VIC-20,[2] and Atari 8-bit family.[3][4] Other companies produced
+add-ons for various 8-bit microcomputers, like Currah MicroSpeech[5]
+and such as the Tandy Speech/Sound Program Pak for the TRS-80. The
+chip was also sold under the Archer brand by RadioShack stores as the
+"Narrator Speech Processor" (part number 276-1784), where earlier
+documentation incorrectly identified it as the SPO256 (with the letter
+"O" instead of the numeral "0").[1]
+
+docs/spo256.pdf
+
+*** Federal Screw Works votrax (Gagnon):
+
+images/votraxschematic.jpg
+
+*low culture*
+
+Q*BERT, Type'n Talk, Wizard of Wor
+
+Monty Pythons Argument Sketch performed with two vintage speech synthesizers [Low, 480x360].mp4
+
+docs/sc01.pdf
+
+*** Digitalker (Forrest S. Mozer):
+
+more like compression
+
+*** DECtalk: (Dennis Klatt): Stephen Hawking, Back to the Future II
+
+dectalk.jpg
+
+DECTalk Queen-Bohemian Rhapsody [Low, 480x360].mp4
+
+The Cenobites scene from Hellraiser performed with speech synthesizers [Low, 480x360].mp4
+
+*** 
+
+** in music and art?
+
+hal: daisy bell video https://www.youtube.com/watch?v=OuEN5TjYRCE
+
+First computer to sing - Daisy Bell [Low, 480x360].mp4
+
+examples from wishart 
+
+http://www.martinriches.de/
+
+** bird song
+
+images/fletchertubes.png
+
+fletcher, mindlin
+
+papers...
+
+mass models and so on
+
+** Further examples
+
+https://chipflip.wordpress.com/2010/03/29/speech-synthesis/
+
+https://www.cs.indiana.edu/rhythmsp/ASA/Contents.html
+
+http://amhistory.si.edu/archives/speechsynthesis/ss_ti.htm
+
+klatt stuff/archive: http://www.festvox.org/history/klatt.html
+
+Computer Chronicles - Speech Synthesis (1984) [Low, 480x360].mp4
+
+* Summary of approaches and theory for electronic and/or software based posthuman vocal synthesis
+
+** source and filter/formants
+
+images/formant01.gif
+
+A formant is a concentration of acoustic energy around a particular
+frequency in the speech wave. There are several formants, each at a
+different frequency, roughly one in each 1000Hz band. Or, to put it
+differently, formants occur at roughly 1000Hz intervals. Each formant
+corresponds to a resonance in the vocal tract.
+
+http://person2.sol.lu.se/SidneyWood/praate/whatform.html
+
+** LPC
+
+Extracxtion of Linear Prediction Coefficients for Human Speech Signalsmp4 [Low, 460x360].webm
+
+** articulatory/physical modelling - glottal source/folds, tubes, delay lines
+
+use of praat? http://www.fon.hum.uva.nl/rob/VocalTractExamples/
+
+wormed tract example audio: recordings/worm001_1365.wav
+
+** VOSIM/FOF
+
+VOSIM (VOice SIMulation) sound synthesis is based on the idea that by
+employing repeating tone-burst signals of variable pulse duration and
+variable delay,
+
+Tempelaars
+
+docs/vosim.pdf
+
+FOF = Forme d'Onde Formantique/Formant waveform
+
+http://anasynth.ircam.fr/home/english/media/singing-synthesis-chant-program
+
+* own examples if we have - speaknspell tms5200 and variants
+
+- also own speech synth/eurorack - simulation explained
+
+* explaining the circuit and the process of design
+
+- intro to own synth we will build/dragon filter/design process overview
+
+based on AI_Cybernetics_Model_1000_Speech_Synthesizer_M.PDF and bindubba, ti filter, show kicad etc...
+
+filters approx: 350, 450, 600, 700, 900, 1500, 2500
+
+Q=10 = bandwidth is f/10
+
+- software overview
+
+* physical
+
+** 
+
+http://www.phon.ucl.ac.uk/home/mark/vowels/
+
+docs/chiba.pdf
+
+- physical playing - small speakers, resonator and balloons, tubes, clay
+
+** 3d models we have
+
+http://splab.net/APD/V100/index-e.html
+
+* build notes/elements
+
+* random
+
+http://www.kevtris.org/Projects/votraxml1/index.html
+
+https://monoskop.org/images/2/21/Wishart_Trevor_On_Sonic_Art.pdf
+
+
