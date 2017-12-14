@@ -42,7 +42,8 @@
 
 uint8_t synthPeriod, sample, rate, counter;
 volatile uint8_t modus;
-uint16_t synthEnergy, location=0;
+uint16_t synthEnergy;
+volatile uint16_t location=0;
 
 
 static uint16_t pitch[howmany];
@@ -323,8 +324,11 @@ void main() {
     
     if (counterr==16){ // might need tweaking but seems to work
       counterr=0;
-    if (adcread10(2)>255) mode++;
-    modus=mode%16; // 16 modes, could be 32
+      if (adcread10(2)>255){ // small changed here for location
+	location=0;
+	mode++;
+	modus=mode%16; // 16 modes, could be 32
+      }
     }
 
     //    modus=14; 
