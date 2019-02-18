@@ -1,0 +1,106 @@
+* TODO:
+
+- printouts
+- presentation/LPC etc...
+
+///
+
+- presentation/work - tubes, own synth, history, examples
+
+methods: physical models (real, electronic, software), source/filter
+(electronic/software), encodings (LPC)... birdsong and other
+animals...
+
+* programming using arduino
+
+for makefile below
+
+AVRDUDE = avrdude -c avrisp -p $(DEVICE)
+FUSEH = 0xdf
+FUSEL = 0xf7
+
+fuse: avrdude -P /dev/ttyACM5 0b 19200 -c arduino -p m168 -F -U hfuse:w:0xdf:m -U lfuse:w:0xf7:m
+
+flash: avrdude -c avrisp -p m168 -F -U flash:w:erdsir.hex:i
+
+Makefile
+
+* DESIGN
+
+** atmega - glottal and noise code - how to program simply
+
+*** glottal examples 
+
+from klatt/others?
+
+for sets of modes each continuous/steppy pitch?
+
+  - LPC without filters - TalkieDONE
+
+  - simple sine osc with vibrato and no floats???
+
+  - cantarino? is quite specific - check?
+
+  - wavetables such as from RAVEN: where?
+
+wavetables.h but question of speed of these as was set for 32000?
+
+  - simple calcs: pulses, square, saw
+
+sources from klatt code: nsynth.c q of floats 
+
+glottal wave from: votrax.c
+
+pulses from: sp0256.c 
+
+** design
+
+  - impedance and hum?
+
+inverting 1M vs non-inverting? non-inv seems worse but even with 100k also bad???? ground plane?
+
+seems fine with inverting amp (100k and 1m feedback) after arduino/atmega and before finger patch
+
+then other side of finger straight into inv in with 100k feedback then out into filter (330k)
+
+  - filter 110hz seems to work but maybe don't need atten below - just 330k in...
+
+** extensions - additional filters - how?
+
+** what are the 7 frequencies:
+
+lists of formants?
+
+*** say 350, 450, 600, 700, 900, 1500, 2500
+
+bandwidth?
+
+bindubb: the filters have Q=10 and centre frequencies of 55, 110, 220, 440, 880, 1760, 3250 Hz. 
+
+q=10 bandwidth at 3db is f/10 so 35, 45, 60, 70, 90, 150, 250
+
+** SMD or thru-hole?
+
+SMD
+
+** how we mount 2x 9v DC + supply for atmega(168?) 5v 7805
+
+batteries on the back
+
+* packings
+
+  - a few books, articles, reader?? HOME/STUDIO
+  - examples - own ERD/WORM in rack + power, [speak spell + power]
+  - TODO:print layout and parts
+  - PCBs, parts inc. generic SMD parts - check all partsCHECKED
+  - physicals: pipes, plastic, [tools=craftknife, minisaw, tape measure, tape, wood file] clay, speakers and amp
+  - 9v batteries x12x2 packs
+  - TO_GET:glue
+
+
+
+  
+
+
+
+  
