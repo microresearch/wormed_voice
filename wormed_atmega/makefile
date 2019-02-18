@@ -12,7 +12,9 @@ OBJCOPY=avr-objcopy
 CFLAGS=-mmcu=$(MCU) -Os
 DEVICE = m168
 #AVRDUDE = avrdude -c usbasp -p $(DEVICE)
-AVRDUDE = avrdude -P /dev/ttyACM0 -b 19200 -c arduino -p $(DEVICE)
+#AVRDUDE = avrdude -P /dev/ttyACM0 -b 19200 -c arduino -p $(DEVICE)
+AVRDUDE = avrdude -c stk500v2 -P /dev/ttyACM0 -p $(DEVICE) # pololu
+
 FUSEH = 0xdf
 FUSEL = 0xf7
 

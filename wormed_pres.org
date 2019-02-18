@@ -1,3 +1,4 @@
+
 *  why it is interesting?
 
 | images/mrryunotett9ad0tr3tbxw.jpg | images/dragon.jpg | 
@@ -69,6 +70,7 @@ animal speech to the cut-up, to stammerings, stutterings and tics; to
 an extra-human, outer-word terrain of numbers burrowed and nibbled by
 the earth worms. ERD/WORM feasts on this electronic legacy.
 
+: cat tospeakworm | festival --tts
 
 * quick look at the reader
 
@@ -85,7 +87,6 @@ the earth worms. ERD/WORM feasts on this electronic legacy.
 ** how these begin to illuminate the theory
 
 images/dudleynotebook.jpg
-
 - to make something which sounds like speech
 - to make something which models the physical processes of speech
 
@@ -143,6 +144,8 @@ Darwin's TEMPLE OF NATURE, pp 119-20."
 *** Von Kempelen
 
 | images/kemp1.jpg | images/kemp2.jpg   | 
+
+*** 
 
 reconstruction of Von Kemp by Wheatstone
 
@@ -202,33 +205,64 @@ Howard M. Sams & Co., 1983, p. 75.]
 
 images/voder.gif
 
+*** 
+
 images/VoderSchem.gif
 
-images/img2979.png
+*** vocoder 
 
-vocoder.jpeg
+images/rsnvocoderdiagram.png
+
+*** 
+
+images/vocoder.jpeg
+
+*** 
 
 The Voder 1939, the worlds first electronic voice synthesizer [Low, 480x360].mp4
 
 Pegasus Project 5  The Voder [ Trip Hop ] [HD, 1280x720].mp4
 
-and military encodings/Alan Turing
+and communications/compression/military encodings/Alan Turing
 
-video/kraftwerk
+Secret history: https://www.youtube.com/watch?v=OvR4qK0B--w
 
-** later electrical analogues
+Many of the electronic voices in Kraftwerk's songs (e.g. Die Stimme
+der Energie, The Robots, Autobahn) are created through the use of a
+vocoder. This device does not synthesise the human voice, but is a
+method of imposing the spectral character of one sound upon another;
+the vocoder modulates the harmonic content and amplitude of a
+"carrier" signal to mirror that of the "exciter" signal.
 
-http://www.haskins.yale.edu/featured/heads/SIMULACRA/stewart.html DOWN!
+http://kraftwerkfaq.hu/equipment.html#vocoder
+
+Imogen Heap: https://www.youtube.com/watch?v=UYIAfiVGluk
+
+
+
+** later electrical analogues and other things
+
+images/fig4.jpg
 
 Bell labs booklet: docs/speechsynthesis.pdf 
 
-Daisy Bell
-
-haskins pattern playback: http://www.haskins.yale.edu/featured/heads/SIMULACRA/playback.html DOWN!
-
 Dunn's Electrical Vocal Tract
 
-and Flanagan/many others http://www.haskins.yale.edu/featured/heads/SIMULACRA/dunn.html DOWN!
+and Flanagan/many others...
+
+Haskins pattern playback: The Pattern Playback is an early talking
+machine that was built by Dr. Franklin S. Cooper and his colleagues at
+Haskins Laboratories in the late 1940s. This device converts
+spectrographic pictures (also known as voiceprints) into sound, using
+either photographic copies of actual spectrograms or, alternatively,
+"synthetic" patterns which are painted by hand on a cellulose acetate
+base.
+
+https://www.phonetik.uni-muenchen.de/studium/skripten/Haskins/Haskins/MISC/PP/pp.html
+
+https://www.youtube.com/watch?v=rCKp7OfoT9Y
+
+Early Haskins Labs video about the Pattern Playback Machine [Low, 480x360].mp4 
 
 ** speak spell/votrax etc - show some documents as kind of media archaeology
 
@@ -238,7 +272,7 @@ images/LPC.jpg
 
 *** 
 
-image/titeam.jpg
+images/titeam.jpg
 
 https://archive.cnx.org/contents/f220056c-e0f3-419f-87b2-7b9de9a621c6@2/how-the-speak-n-spell-worked
 
@@ -267,6 +301,7 @@ docs/spo256.pdf
 *** Federal Screw Works votrax (Gagnon):
 
 images/votraxschematic.jpg
+*** 
 
 *low culture*
 
@@ -282,7 +317,7 @@ more like compression
 
 *** DECtalk: (Dennis Klatt): Stephen Hawking, Back to the Future II
 
-dectalk.jpg
+images/dectalk.jpg
 
 DECTalk Queen-Bohemian Rhapsody [Low, 480x360].mp4
 
@@ -290,25 +325,37 @@ The Cenobites scene from Hellraiser performed with speech synthesizers [Low, 480
 
 *** 
 
-** in music and art?
+** in music and art
 
 hal: daisy bell video https://www.youtube.com/watch?v=OuEN5TjYRCE
 
+Hal 9000 sings Daisy [Low, 480x360].mp4
+
 First computer to sing - Daisy Bell [Low, 480x360].mp4
 
-examples from wishart 
+kraftwerk: https://www.youtube.com/watch?v=bu55q_3YtOY
 
-http://www.martinriches.de/
+Kraftwerk - Home Computer [Low, 460x360].webm
+
+examples from wishart: recordings/On Sonic Art
+
+vocaloid: https://www.youtube.com/watch?v=gxEBjnaxLhA
+
+Martin Riches: http://www.martinriches.de/
+
+Fake synthetic music: https://soundcloud.com/stinejanvin/fake-synthetic-music-live-at-ctm-festival
 
 ** bird song
 
 images/fletchertubes.png
 
-fletcher, mindlin
+Fletcher, Mindlin
 
-papers...
+papers: docs/experimental-support-for-a-model-of-birdsong-production.pdf
 
-mass models and so on
+docs/ch4.pdf
+
+mass models, syrinx
 
 ** Further examples
 
@@ -318,7 +365,9 @@ https://www.cs.indiana.edu/rhythmsp/ASA/Contents.html
 
 http://amhistory.si.edu/archives/speechsynthesis/ss_ti.htm
 
-klatt stuff/archive: http://www.festvox.org/history/klatt.html
+best of klatt: https://www.cs.indiana.edu/rhythmsp/ASA/highlights.html
+
+full klatt stuff/archive: http://www.festvox.org/history/klatt.html
 
 Computer Chronicles - Speech Synthesis (1984) [Low, 480x360].mp4
 
@@ -338,15 +387,19 @@ http://person2.sol.lu.se/SidneyWood/praate/whatform.html
 
 ** LPC
 
-Extracxtion of Linear Prediction Coefficients for Human Speech Signalsmp4 [Low, 460x360].webm
+Extraction of Linear Prediction Coefficients for Human Speech Signalsmp4 [Low, 460x360].webm
 
 ** articulatory/physical modelling - glottal source/folds, tubes, delay lines
+
+images/hab5a49.gif
 
 use of praat? http://www.fon.hum.uva.nl/rob/VocalTractExamples/
 
 wormed tract example audio: recordings/worm001_1365.wav
 
 ** VOSIM/FOF
+
+images/baffb08332f589666942e7970c0999a7.gif
 
 VOSIM (VOice SIMulation) sound synthesis is based on the idea that by
 employing repeating tone-burst signals of variable pulse duration and
